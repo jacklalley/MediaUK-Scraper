@@ -1,7 +1,7 @@
 #Media UK Scraper
 MediaUKScraper is a gem that makes it easy to scrape the Media UK directory.
 
-The gem scrapes searches, companies and allows you to individually grab a variety of companies social statistics. 
+The gem scrapes companies from the Media UK directory and allows you to individually grab a variety of there social statistics. 
 
 #Getting Started
 
